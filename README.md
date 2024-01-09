@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061239,30:636ab0,60:0e213e,100:030515&text=%20HanJuYeon💫%20%20&height=200&fontSize=70&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030515,50:7F7FD5,100:030515&text=%20HanJuYeon💫%20%20&height=200&fontSize=70&fontColor=ffffff"/>
 
 
 <div align=center><h1>🌕 STACKS 🌕</h1></div>
