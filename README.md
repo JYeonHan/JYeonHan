@@ -15,7 +15,17 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:001432&text=%20HanJuYeon💫%20%20&height=200&fontSize=70&fontColor=ffffff"/>
 
-
+<div style="
+    background: linear-gradient(to bottom, #7F7FD5, #001432);
+    width: 100%;
+    height: 200px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 70px;">
+    HanJuYeon💫
+</div>
 
 <div align=center><h1>🌕 STACKS 🌕</h1></div>
 
