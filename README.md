@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **JYeonHan/JYeonHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there✨&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44)
 
 
-## STACK content
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>🌕 STACKS 🌕</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -57,3 +55,6 @@ Here are some ideas to get you started:
   <br>
 </div>
 
+<div align=center><h1>🌓 STACKS 🌓</h1></div>
+<div align=center><h1>🌒 STACKS 🌒</h1></div>
+<div align=center><h1>🌑 STACKS 🌑</h1></div>
