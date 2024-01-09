@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there✨&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20💫 HanJuYeon 💫%20%20&height=200&fontSize=90&fontColor=ffffff)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
 
 
 <div align=center><h1>🌕 STACKS 🌕</h1></div>
@@ -55,6 +56,7 @@ Here are some ideas to get you started:
   <br>
 </div>
 
-<div align=center><h1>🌓 STACKS 🌓</h1></div>
+<div align=center><h1>🌓 Language 🌓</h1></div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username='user ID'&layout=compact&custom_title=My&nbsp;Language&nbsp;)](https://github.com/JYeonHan/github-readme-stats)
 <div align=center><h1>🌒 STACKS 🌒</h1></div>
 <div align=center><h1>🌑 STACKS 🌑</h1></div>
