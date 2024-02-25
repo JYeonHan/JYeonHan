@@ -1,18 +1,4 @@
 
-<!--
-**JYeonHan/JYeonHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:142c5f,50:7F7FD5,100:142c5f&text=%20HanJuYeon💫%20%20&height=200&fontSize=50&fontColor=ffffff"/>
 
 
@@ -55,11 +41,11 @@ Here are some ideas to get you started:
   <br>
 </div>
 
-<div align=center><h1>🌓 Language 🌓</h1></div>
+<div align=center><h1>🌓 Contact 🌓</h1></div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username='user ID'&layout=compact&custom_title=My&nbsp;Language&nbsp;)](https://github.com/JYeonHan/github-readme-stats)
 <div align=center><h1>🌒 STACKS 🌒</h1></div>
 <div align=center><h1>🌑 STACKS 🌑</h1></div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYeonHan&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
 
 
