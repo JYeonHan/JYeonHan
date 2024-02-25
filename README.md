@@ -1,6 +1,17 @@
+<!-- 헤더 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:142c5f,50:7F7FD5,100:142c5f&text=%20HanJuYeon💫%20%20&height=200&fontSize=50&fontColor=ffffff"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:142c5f,50:7F7FD5,100:142c5f&text=%20HanJuYeon💫%20%20&height=200&fontSize=50&fontColor=ffffff"/)
 
+<div align=center>
+<!--소개-->
+
+## Introduction :raised_hands:
+Hi, I am trying to become a nice developer😎
+<br/><br/>
+ 
+ 
+ <!--기술스택-->
+  
 
 <div align=center><h1>🌕 STACKS 🌕</h1></div>
 
@@ -42,7 +53,17 @@
 </div>
 
 <div align=center><h1>🌓 Contact 🌓</h1></div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username='user ID'&layout=compact&custom_title=My&nbsp;Language&nbsp;)](https://github.com/JYeonHan/github-readme-stats)
+
+<div style="display:flex; flex-direction:row;">
+    <a href="https://www.instagram.com/96h_joo/?igsh=MXM0ZWRmeTc5djZvcQ%3D%3D">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+    <a href="mailto:minibubbles030@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"> 
+    </a>
+</div><br>
+
+
 <div align=center><h1>🌒 STACKS 🌒</h1></div>
 <div align=center><h1>🌑 STACKS 🌑</h1></div>
 <div>
