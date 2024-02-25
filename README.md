@@ -14,7 +14,7 @@ Hi, I am trying to become a nice developer😎
 
 <!--포폴pdf-->
 <a href="https://1drv.ms/b/s!An7zI-C7dV9o2VOkqt0_tglkeb2G?e=4nDql8">
-    <img src="https://img.shields.io/badge/just%20the%20message-F52525">
+    <img src="https://img.shields.io/badge/My%20portfolio%20PDF-F52525">
 </a>
 <br>
 
