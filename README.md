@@ -9,6 +9,20 @@
 Hi, I am trying to become a nice developer😎
 <br/><br/>
  
+<div align=center><h1>🌓 Contact 🌓</h1></div>
+
+<div style="display:flex; flex-direction:row;">
+    <a href="https://www.instagram.com/96h_joo/?igsh=MXM0ZWRmeTc5djZvcQ%3D%3D">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+    <a href="mailto:minibubbles030@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"> 
+    </a>
+     <a href="mailto:wndus5357@naver.com">
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
+    </a>
+</div><br>
+
  
  <!--기술스택-->
   
@@ -52,27 +66,15 @@ Hi, I am trying to become a nice developer😎
   <br>
 </div>
 
-<div align=center><h1>🌓 Contact 🌓</h1></div>
-
-<div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/96h_joo/?igsh=MXM0ZWRmeTc5djZvcQ%3D%3D">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-    <a href="mailto:minibubbles030@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"> 
-    </a>
-     <a href="mailto:wndus5357@naver.com">
-        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
-    </a>
-</div><br>
 
 
+<!--
 <div align=center><h1>🌒 STACKS 🌒</h1></div>
 <div align=center><h1>🌑 STACKS 🌑</h1></div>
 <div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYeonHan&layout=compact)](https://github.com/JYeonHan/github-readme-stats)
 </div>
 
-
+-->
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
