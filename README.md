@@ -8,8 +8,13 @@
 ## Introduction :raised_hands:
 Hi, I am trying to become a nice developer😎
 <br/><br/>
- 
+
+<!--연락처-->
 <div align=center><h1>🌓 Contact 🌓</h1></div>
+
+<!--포폴pdf-->
+
+<br>
 
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/96h_joo/?igsh=MXM0ZWRmeTc5djZvcQ%3D%3D">
