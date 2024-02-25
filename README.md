@@ -14,7 +14,7 @@ Hi, I am trying to become a nice developer😎
 
 <!--포폴pdf-->
 <a href="https://1drv.ms/b/s!An7zI-C7dV9o2VOkqt0_tglkeb2G?e=4nDql8">
-    <img src="https://img.shields.io/badge/My%20portfolio%20PDF-F52525">
+    <img src="https://img.shields.io/badge/My%20portfolio%20PDF-F52525?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
 <br>
 
@@ -23,7 +23,7 @@ Hi, I am trying to become a nice developer😎
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
     <a href="mailto:minibubbles030@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
      <a href="mailto:wndus5357@naver.com">
         <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
