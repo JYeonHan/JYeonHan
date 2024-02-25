@@ -1,6 +1,6 @@
 <!-- 헤더 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:142c5f,50:7F7FD5,100:142c5f&text=%20HanJuYeon💫%20%20&height=200&fontSize=50&fontColor=ffffff"/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:142c5f,50:7F7FD5,100:142c5f&text=%20HanJuYeon💫%20%20&height=200&fontSize=50&fontColor=ffffff"/>
 
 <div align=center>
 <!--소개-->
@@ -61,13 +61,16 @@ Hi, I am trying to become a nice developer😎
     <a href="mailto:minibubbles030@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"> 
     </a>
+     <a href="mailto:wndus5357@naver.com">
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
+    </a>
 </div><br>
 
 
 <div align=center><h1>🌒 STACKS 🌒</h1></div>
 <div align=center><h1>🌑 STACKS 🌑</h1></div>
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYeonHan&layout=compact)](https://github.com/delay-100/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYeonHan&layout=compact)](https://github.com/JYeonHan/github-readme-stats)
 </div>
 
 
