@@ -13,7 +13,9 @@ Hi, I am trying to become a nice developer😎
 <div align=center><h1>🌓 Contact 🌓</h1></div>
 
 <!--포폴pdf-->
-<img src="https://img.shields.io/badge">
+<a href="https://1drv.ms/b/s!An7zI-C7dV9o2VOkqt0_tglkeb2G?e=4nDql8">
+    <img src="https://img.shields.io/badge/just%20the%20message-F52525">
+</a>
 <br>
 
 <div style="display:flex; flex-direction:row;">
