@@ -1,8 +1,9 @@
 <!-- 헤더 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:142c5f,50:7F7FD5,100:142c5f&text=%20HanJuYeon💫%20%20&height=200&fontSize=50&fontColor=ffffff"/>
+
 
 <div align=center>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:142c5f,50:7F7FD5,100:142c5f&text=%20HanJuYeon💫%20%20&height=200&fontSize=50&fontColor=ffffff"/>
 <!--소개-->
 
 ## Introduction :raised_hands:
